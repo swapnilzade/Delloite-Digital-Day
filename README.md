@@ -1,4 +1,4 @@
-# Delloite-Digital-Away-Day
+# Deloitte-Digital-Away-Day
 
 Deloitte Digital is rewarding their employees in recognition for their hard work for range of successful projects by organising a "Deloitte Digital Away Day".
 This project helps event organiser to plan events.
